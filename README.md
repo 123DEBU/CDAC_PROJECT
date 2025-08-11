@@ -29,7 +29,7 @@ The goal is to **make property valuation faster, more accurate, and transparent*
 ---
 
 ## 📊 Dataset
-- **Source:** [Kaggle – India Housing Prices Dataset](https://www.kaggle.com/)
+- **Source:** https://www.kaggle.com/datasets/mohamedafsal007/house-price-dataset-of-india
 - **Rows:** 200,000  
 - **Columns:** 24  
 - **Target Variable:** `Price_in_Lakhs`
